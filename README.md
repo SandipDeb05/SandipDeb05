@@ -16,5 +16,5 @@ I strive while utilising both the logical and creative part of the brain. I feel
 You can find me on the following coding/social platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/sandip-deb-8b76b2157/)
 * 👨‍💻 [LeetCode](https://leetcode.com/Sandip_Deb/)
-* 🌐 [Portfolio](https://sandipdeb.netlify.app/)
+* 🌐 [Portfolio](https://sandipdeb.vercel.app/)
 * ✉️ [sandipdeb05@gmail.com](mailto:sandipdeb05@gmail.com)
