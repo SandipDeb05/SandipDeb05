@@ -9,7 +9,6 @@ I strive while utilising both the logical and creative part of the brain. I feel
 ![](https://img.shields.io/badge/React-%230269A4)
 ![](https://img.shields.io/badge/Redux-%23593d88)
 ![](https://img.shields.io/badge/Next-%23111111)
-![](https://img.shields.io/badge/java-red)
 ![](https://img.shields.io/badge/Git-orange)
 
 ## Online Profiles 💻
