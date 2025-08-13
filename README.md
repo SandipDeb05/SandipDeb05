@@ -8,8 +8,14 @@ I strive while utilising both the logical and creative part of the brain. I feel
 ![](https://img.shields.io/badge/JavaScript-yellow)
 ![](https://img.shields.io/badge/React-%230269A4)
 ![](https://img.shields.io/badge/Redux-%23593d88)
+![](https://img.shields.io/badge/React%20Router-F44250)
+![](https://img.shields.io/badge/Tanstack%20Query-FB2C36)
 ![](https://img.shields.io/badge/Next-%23111111)
 ![](https://img.shields.io/badge/Git-orange)
+![](https://img.shields.io/badge/Node-417E38)
+![](https://img.shields.io/badge/Express-F0F1F3)
+![](https://img.shields.io/badge/MongoDB-00ED64)
+![](https://img.shields.io/badge/MySQL-3E6E93)
 
 ## Online Profiles 💻
 You can find me on the following coding/social platforms or send me an email:
